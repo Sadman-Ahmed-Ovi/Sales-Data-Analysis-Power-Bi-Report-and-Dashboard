@@ -1,4 +1,4 @@
-# Sales-Data-analysis-Power-Bi-Report-and-Dashboard
+# Sales-Data-Analysis-Power-Bi-Report-and-Dashboard
 
 ## Problem Statement
 
