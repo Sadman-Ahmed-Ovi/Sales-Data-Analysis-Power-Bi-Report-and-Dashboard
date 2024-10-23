@@ -138,11 +138,19 @@ Stage 4 focused on bringing the data to life through reports and dashboards. We 
 
 # Snapshot of Dashboard 
 
+### Executive Dashboard
+
 ![Screenshot 2024-10-23 120425](https://github.com/user-attachments/assets/4aeed49d-7515-49ec-bc2d-c1871c9f20f3)
+
+### Map
 
 ![Screenshot 2024-10-23 120454](https://github.com/user-attachments/assets/29a800cd-2900-4a6e-b7fc-1a9c7e6e571f)
 
+### Product Detail
+
 ![Screenshot 2024-10-23 120519](https://github.com/user-attachments/assets/24014f97-cab4-49ec-b28c-71893e287032)
+
+### Customer Detail
 
 ![Screenshot 2024-10-23 120543](https://github.com/user-attachments/assets/672710a4-cc82-4d1d-bebc-7873777d7082)
 
